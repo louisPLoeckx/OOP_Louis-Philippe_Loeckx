@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.Reis">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAgAAAgAQgAAgAAAA=</HashCode>
+      <FileName>Models\Reis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.VliegtuigVakantie">
+    <Position X="13.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Models\VliegtuigVakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.Cruise">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Models\Cruise.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.AutoVakantie">
+    <Position X="8.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\AutoVakantie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.ReisBureau">
+    <Position X="8.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ReisBureau.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.ReisReservatie">
+    <Position X="8.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAABAAAAAAAAAAAAAABAAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>Models\ReisReservatie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.Persoon">
+    <Position X="10" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAgAAAAAAAAAAAABAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Persoon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.LogMessage">
+    <Position X="13.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAgAAAAAAAAAAAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LogMessage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.LoggerService">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAIAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\LoggerService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OOP_Louis_Philippe_Loeckx.Models.Adres">
+    <Position X="12" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAAAAAAAACAAAAAAAAAAQAACAA=</HashCode>
+      <FileName>Models\Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="OOP_Louis_Philippe_Loeckx.Interfaces.ILoggable">
+    <Position X="10.5" Y="8.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ILoggable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
