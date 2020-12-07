@@ -24,12 +24,12 @@ namespace OOP_Louis_Philippe_Loeckx
 
             DateTime departureDate = new DateTime(2020, 12, 12);
             DateTime ReturnDate = new DateTime(2020, 12, 20);
-            AutoVakantie Trip = new AutoVakantie(8, departureDate, ReturnDate);
+            AutoVakantie FirstTrip = new AutoVakantie(8, departureDate, ReturnDate);
             
             ReisReservatie first = new ReisReservatie() ;
             first.Persoon = Francko;
             first.ReisBureau = TUI;
-            first.Reis = Trip;
+            first.Reis = FirstTrip;
 
             Console.WriteLine(first.Reis.BerekenPrijs());
             Console.WriteLine(first.Reis.AantalDagen);

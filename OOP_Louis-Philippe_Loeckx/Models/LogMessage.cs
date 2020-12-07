@@ -44,7 +44,7 @@ namespace OOP_Louis_Philippe_Loeckx.Models
 
         public LogMessage(string boodschap)
         {
-            this.Boodschap = boodschap;
+            Boodschap = boodschap;
 
         }
     }
