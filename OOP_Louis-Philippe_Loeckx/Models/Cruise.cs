@@ -6,7 +6,7 @@ namespace OOP_Louis_Philippe_Loeckx.Models
     {
         public const int CruisPrijsExtraDagKost = 10;
 
-        private bool VIP { get; set; }//Can only be used in this class
+        private bool VIP { get; set; }
 
         public override double BerekenPrijs()
         {
